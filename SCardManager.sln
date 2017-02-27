@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCardManager", "SCardManager\SCardManager.vcxproj", "{19B227E0-3F36-41B9-9133-F80F1DE47D7B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCardService", "SCardService\SCardService.vcxproj", "{A2F11822-FEFC-4D9B-BE63-BCFE93104208}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCardMgrLauncher", "SCardMgrLauncher\SCardMgrLauncher.vcxproj", "{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Itanium = Debug|Itanium
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Itanium = Release|Itanium
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|Itanium.Build.0 = Debug|Itanium
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|Win32.Build.0 = Debug|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|x64.ActiveCfg = Debug|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Debug|x64.Build.0 = Debug|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|Itanium.ActiveCfg = Release|Itanium
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|Itanium.Build.0 = Release|Itanium
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|Win32.ActiveCfg = Release|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|Win32.Build.0 = Release|Win32
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|x64.ActiveCfg = Release|x64
+		{19B227E0-3F36-41B9-9133-F80F1DE47D7B}.Release|x64.Build.0 = Release|x64
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Debug|Itanium.Build.0 = Debug|Itanium
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Debug|Win32.Build.0 = Debug|Win32
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Debug|x64.ActiveCfg = Debug|Win32
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|Itanium.ActiveCfg = Release|Itanium
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|Itanium.Build.0 = Release|Itanium
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|Win32.ActiveCfg = Release|Win32
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|Win32.Build.0 = Release|Win32
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|x64.ActiveCfg = Release|x64
+		{A2F11822-FEFC-4D9B-BE63-BCFE93104208}.Release|x64.Build.0 = Release|x64
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Debug|Itanium.Build.0 = Debug|Itanium
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Debug|Win32.Build.0 = Debug|Win32
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Debug|x64.ActiveCfg = Debug|Win32
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|Itanium.ActiveCfg = Release|Itanium
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|Itanium.Build.0 = Release|Itanium
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|Win32.ActiveCfg = Release|Win32
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|Win32.Build.0 = Release|Win32
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|x64.ActiveCfg = Release|x64
+		{845F0F53-5DEE-43D5-8D36-10E7C4C0179F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
